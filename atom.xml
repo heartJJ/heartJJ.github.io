@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>blog</title>
   
-  
+  <subtitle>person note</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://kongbaige.xyz/"/>
   <updated>2019-03-08T10:26:16.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kongbaige.xyz/</id>
   
   <author>
     <name>HJJ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>first_blog</title>
-    <link href="http://yoursite.com/2019/03/08/first-blog/"/>
-    <id>http://yoursite.com/2019/03/08/first-blog/</id>
+    <link href="http://kongbaige.xyz/2019/03/08/first-blog/"/>
+    <id>http://kongbaige.xyz/2019/03/08/first-blog/</id>
     <published>2019-03-08T09:43:36.000Z</published>
     <updated>2019-03-08T10:26:16.000Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/03/08/hello-world/"/>
-    <id>http://yoursite.com/2019/03/08/hello-world/</id>
+    <link href="http://kongbaige.xyz/2019/03/08/hello-world/"/>
+    <id>http://kongbaige.xyz/2019/03/08/hello-world/</id>
     <published>2019-03-08T09:32:27.000Z</published>
     <updated>2019-03-08T09:32:27.000Z</updated>
     
